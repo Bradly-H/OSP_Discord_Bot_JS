@@ -1,0 +1,16 @@
+# Discord Token and Private Variables
+.env
+
+
+# authorization json files
+keys.json
+client_secret_534397392378-tgenntfvj91qdavdgmnmmjp8tud31pnv.apps.googleusercontent.com.json
+google_oauth_generate_url.js
+google-oauth-token.json
+
+# Node modules
+/node_modules
+
+# Test code for later
+reaction_event_code.js
+spare_code.js

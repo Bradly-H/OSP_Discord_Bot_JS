@@ -1,0 +1,16 @@
+{
+    "scripts": {
+        "commands": "node deploy-commands.js",
+        "bot": "node index.js",
+        "dev": "node deploy-commands.js && node index.js"
+    },
+    "dependencies": {
+        "@google-cloud/local-auth": "^2.1.1",
+        "axios": "^1.3.4",
+        "discord.js": "^14.7.1",
+        "dotenv": "^16.0.3",
+        "fs": "^0.0.1-security",
+        "googleapis": "^112.0.0",
+        "moment": "^2.29.4"
+    }
+}
